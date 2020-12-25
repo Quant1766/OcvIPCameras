@@ -1,0 +1,16 @@
+Pillow==7.0.0
+psycopg2==2.8.4
+Pygments==2.6.1
+python-decouple==3.0
+pytz==2019.3
+requests==2.23.0
+Unipath==1.0
+uritemplate==3.0.1
+urllib3==1.25.8
+xlwt
+bs4
+pandas
+lxml
+opencv-python
+opencv-contrib-python
+PyQt5
